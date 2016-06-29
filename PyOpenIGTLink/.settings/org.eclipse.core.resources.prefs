@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//src/OpenIGTClient.py=utf-8
+encoding//src/OpenIGTListenerInterface.py=utf-8
+encoding//src/PyOpenIGTLink.py=utf-8
+encoding//src/SocketReceiverThread.py=utf-8
